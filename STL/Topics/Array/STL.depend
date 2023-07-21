@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655915756 source:c:\users\ashish singh\desktop\c++\stl\main.cpp
+	<iostream>
+	<array>
+	<vector>
+
+1655915612 source:c:\users\ashish singh\desktop\c++\stl\vector.cpp
+	<iostream>
+	<vector>
+
